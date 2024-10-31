@@ -8,7 +8,7 @@ int main()
 	s1 = PI * (d1 / 2) * (d1 / 2);
 	s2 = PI * (d2 / 2) * (d2 / 2);
 	m = (s1 - s2) * h * RUO;
-	printf("铁环的重量为：%.2lf", m);
+	printf("閾佺悆鐨勯噸閲忔槸拢潞%.2lf", m);
 	return 0;
 }
 
